@@ -1,0 +1,21 @@
+/* css styles */
+
+.oddnum {
+    background-color: rgb(255, 125, 125);
+    font: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#second {
+    color: rgb(0, 0, 255);
+    font-size: 24px;
+}
+
+.but-cooler {
+    font-size: 24px;
+}
+
+#fourth {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: rgb(125, 255, 131);
+}
